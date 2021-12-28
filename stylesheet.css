@@ -1,0 +1,76 @@
+#input-box{
+    height: 550px;
+    width: 400px;
+    background-color: dodgerblue;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+#input-box2{
+    height: 550px;
+    width: 400px;
+    background-color: dodgerblue;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    visibility:hidden;
+}
+#sortinghat-img{
+    height: 145px;
+    width: 240px;
+    padding: 77px;
+}
+#button-add{
+    background-color: turquoise;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 95px;
+}
+#button-house{
+    background-color: turquoise;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 95px;
+}
+#button-add-account{
+    background-color: turquoise;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 95px;
+    margin-top: 30px;
+}
+#button-add-another-account{
+    background-color: turquoise;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 95px;
+    margin-top: 30px;
+}
+#button-add-tohouse{
+    background-color: turquoise;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 95px;
+    margin-top: 30px;
+}
+#input-firstname{
+    margin-bottom: 20px;
+}
+#input-Lastname{
+    margin-bottom: 20px;
+}
+#input-age{
+    margin-bottom: 20px;
+}
+#input-gender{
+    margin-bottom: 20px;
+}
+#input-description{
+    margin-bottom: 20px;
+}
